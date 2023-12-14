@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BmbuUiEqf994PrFENcbk1dyvYCow5ZZOC/EGpq1T0YznCXg8c0z6TLd0w5oCxpjAEC+kyd8tJQXYHtOcQDLLww==",
+  "dgSpecHash": "TrAAxHNGJaWYIFnZTfqVgb9nH36QgwVPbklzNCVOLWaTurzLlj52uT8zrC9q4n8XcAbJoaQf2q+wBKUM5gd84Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
+  "projectFilePath": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\Azure B2C WebApp\\WebApp-OpenIDConnect-DotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hluo\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\hluo\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",

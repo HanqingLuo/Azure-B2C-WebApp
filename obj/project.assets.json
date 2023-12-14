@@ -4388,11 +4388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
+      "projectUniqueName": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\Azure B2C WebApp\\WebApp-OpenIDConnect-DotNet.csproj",
       "projectName": "WebApp-OpenIDConnect-DotNet",
-      "projectPath": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
+      "projectPath": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\Azure B2C WebApp\\WebApp-OpenIDConnect-DotNet.csproj",
       "packagesPath": "C:\\Users\\hluo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\obj\\",
+      "outputPath": "C:\\Users\\hluo\\OneDrive - Cognex Corporation\\Documents\\GitHub\\Azure B2C WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
